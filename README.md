@@ -1,2 +1,2 @@
-This Is My Pinned Twitter/X Post.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">here&#39;s the 2023 complation videos/animations.<a href="https://t.co/zs7cawaf1l">https://t.co/zs7cawaf1l</a></p>&mdash; Gibgter (@gibgter) <a href="https://twitter.com/gibgter/status/1742625736110772291?ref_src=twsrc%5Etfw">January 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<Embedded><blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">here&#39;s the 2023 complation videos/animations.<a href="https://t.co/zs7cawaf1l">https://t.co/zs7cawaf1l</a></p>&mdash; Gibgter (@gibgter) <a href="https://twitter.com/gibgter/status/1742625736110772291?ref_src=twsrc%5Etfw">January 3, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></Embedded>
+ 
